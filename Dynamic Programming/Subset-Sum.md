@@ -27,7 +27,7 @@ def subset_sum(arr, n, s):
       return subset_sum(arr, n-1, s)
       
     else:
-      return max(subset_sum(arr, n-1, s-arr[n-1]), subset_sum(arr, n-1, s))
+      return subset_sum(arr, n-1, s-arr[n-1]) or subset_sum(arr, n-1, s)
 ```
 
 ## Top Down Approach
