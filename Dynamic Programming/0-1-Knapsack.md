@@ -5,7 +5,7 @@
 | Variable Name | Data Type | Use | 
 |---- | ----- | ----- |
 | wt | int[] | Weight of items |
-| val | int Array | Value of items |
+| val | int[] | Value of items |
 | n | int | Number of items |
 | w | int | Weight of knapsack |
 | dp | int[][] | DP Matrix |
