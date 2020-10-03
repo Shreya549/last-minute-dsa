@@ -9,7 +9,13 @@
 | arr | int[] | Given array |
 | n | int | Number of elements in the array |
 | s | int | Sum |
+
+## Other variables
+| Variable Name | Data Type | Use | 
+|---- | ----- | ----- |
 | dp | bool[][] | DP Matrix |
+| i | int | To access rows of the matrix |
+| j | int | To access columns of the matrix |
 
 ## Recursive Approach
 ```	
