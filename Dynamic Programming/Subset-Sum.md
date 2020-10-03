@@ -67,7 +67,7 @@ for i in range (1, n+1):
 
 - Answer
 
-`dp[n][w]`
+`dp[n][s]`
 
 <p align="center">
 	With :heart: by <a href="https://github.com/Shreya549" target="_blank">Shreya Chatterjee</a>
