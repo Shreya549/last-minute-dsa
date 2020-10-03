@@ -1,4 +1,4 @@
-# Equal Sum Partition
+# Count of Subsets - Sum with a given Sum
 
 > Find the number of subsets whose sum is equal to a given number.
 
