@@ -46,10 +46,10 @@ def subset_sum(arr, n, s):
 
 ```
 for j in range(s+1):
-  dp[0][j] = True
+  dp[0][j] = False
   
-for i in range(1, n+1):
-  dp[i][0] = False
+for i in range(n+1):
+  dp[i][0] = True
 ```
 
 - Filling in the rest of the elements
