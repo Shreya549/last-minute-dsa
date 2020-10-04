@@ -1,4 +1,4 @@
-# Longest Common Subsequence
+# Printing Longest Common Subsequence
 
 > Given 2 strings, print the longest common subsequence
 
