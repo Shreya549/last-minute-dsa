@@ -2,6 +2,8 @@
 
 > Last minute algorithms to go through just before a Coding Test
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/Shreya549/last-minute-dsa?style=social&logo=git)](https://github.com/Shreya549/) [![GitHub stars](https://img.shields.io/github/stars/Shreya549/last-minute-dsa?style=social)](https://github.com/Shreya549/last-minute-dsa/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Shreya549/last-minute-dsa?style=social&logo=git)](https://github.com/Shreya549/last-minute-dsa/network)
+
 ##### Note:
 - This is not the complete code.
 - It contains code snippets or algorithms to just brush over the concepts before any coding test.
