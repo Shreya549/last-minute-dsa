@@ -41,14 +41,14 @@ s = ""
 - Traversing the matrix
 
 ```
-while (n1 > 0 and n2 > 0):
-  if (s1[n1] == s2[n2]):
-    s += s1[n1]
+while (i > 0 and j > 0):
+  if (s1[i] == s2[j]):
+    s += s1[i]
     i-=1
     j-=1
     
   else:
-    if (dp[n1-1][n2] > dp[n1][n2-1]):
+    if (dp[i-1][j] > dp[i][j-1]):
       i-=1
     else:
       j-=1
