@@ -6,6 +6,12 @@
 - This is not the complete code.
 - It contains code snippets or algorithms to just brush over the concepts before any coding test.
 
+## Contributors
+ - <a href="https://github.com/Shreya549">Shreya Chatterjee</a>
+ 
+### Feel free to contribute :star_struck:
+
+
 #### Do drop by a :star: if you like it!
 #### Connect with me on :smiling_face_with_three_hearts:
 <a href="https://twitter.com/shreyaaaaaaaaa_">
