@@ -47,5 +47,5 @@ for _ in range(t):
 ```
 
 <p align="center">
-	With :heart: by <a href="https://github.com/Shreya549" target="_blank">Shreya Chatterjee</a>
+	With :heart: by <a href="https://github.com/RajatSablok" target="_blank">Rajat Sablok</a>
 </p>
