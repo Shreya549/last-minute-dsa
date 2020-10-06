@@ -2,7 +2,7 @@
 
 > Given a string, find the longest palindromic subsequence
 
-> [Link to the question](https://leetcode.com/problems/longest-common-subsequence/)
+> [Link to the question](https://www.geeksforgeeks.org/print-longest-palindromic-subsequence/)
 
 > This question is a similar to [Longest Common Subsequence](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Longest-Common-Subsequence.md)
 
