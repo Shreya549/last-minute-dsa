@@ -14,24 +14,6 @@
 | dp | bool[][] | DP Matrix |
 | i, j, k, L | int | Variables for loop |
 
-## Recursive Approach
-```	
-def subset_sum(arr, n, s):
-
-  if (s == 0):
-    return True
-    
-  if (n==0):
-    return False
-    
-  else:
-  
-    if (arr[n-1] > s):
-      return subset_sum(arr, n-1, s)
-      
-    else:
-      return subset_sum(arr, n-1, s-arr[n-1]) or subset_sum(arr, n-1, s)
-```
 
 ## Top Down Approach
 
