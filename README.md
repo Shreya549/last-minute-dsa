@@ -10,6 +10,7 @@
 
 ## Contributors
  - <a href="https://github.com/Shreya549">Shreya Chatterjee</a>
+ - <a href="https://github.com/RajatSablok">Rajat Sablok</a>
  
 ### Feel free to contribute :star_struck:
 
