@@ -2,7 +2,7 @@
 
 > Divide the given array into 2 subsets such that the sum of both the subsets are equal.
 
-> [Link to the question](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+> [Link to the question](https://www.geeksforgeeks.org/split-array-two-equal-sum-subarrays/)
 
 > This question is a variation of [Subset Sum Problem](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Subset-Sum.md)
 ## Input
