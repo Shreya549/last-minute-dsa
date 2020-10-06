@@ -1,8 +1,8 @@
 # Minimum Insertion Deletion
 
-> Given 2 strings, find the minimum number of Insertion and Deletion required to 
+> Given 2 strings, find the minimum number of Insertion and Deletion required to transform one string into another.
 
-> [Link to the question](https://leetcode.com/problems/longest-common-subsequence/)
+> [Link to the question](https://www.geeksforgeeks.org/minimum-number-deletions-insertions-transform-one-string-another/)
 
 > This question is a similar to [Longest Common Subsequence](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Longest-Common-Subsequence.md)
 

@@ -2,7 +2,7 @@
 
 > Given a string, find the length of the longest repeating subsequence
 
-> [Link to the question](https://leetcode.com/problems/longest-common-subsequence/)
+> [Link to the question](https://www.sanfoundry.com/java-program-find-length-longest-repeating-subsequence-string/)
 
 > This question is similar to [Longest Common Subsequence](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Longest-Common-Subsequence.md)
 
