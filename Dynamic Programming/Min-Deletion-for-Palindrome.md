@@ -2,7 +2,7 @@
 
 > Given a string, find the minimum number of deletions required to make it palindrome
 
-> [Link to the question](https://leetcode.com/problems/longest-common-subsequence/)
+> [Link to the question](https://www.geeksforgeeks.org/minimum-number-deletions-make-string-palindrome/)
 
 > This question is a variant of [Longest Palindromic Subsequence](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Longest-Palindromic-Subsequence.md)
 
