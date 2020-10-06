@@ -43,7 +43,7 @@ for L in range (2, n):
     
     for k in range(i, j):
     
-      dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j] + arr[i-1] * arr[k] * arr[j]
+      dp[i][j] = min(dp[i][j], dp[i][k] + dp[k+1][j] + arr[i-1] * arr[k] * arr[j])
   
 ```
 
