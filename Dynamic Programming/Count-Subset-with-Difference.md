@@ -2,7 +2,7 @@
 
 > Divide the array into 2 subsets such that the difference of the sum of these two subsets is equal to the given number. Find the count of such possible subsets.
 
-> [Link to the question](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+> [Link to the question](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 
 > This question is a variation of [Count Subsets Problem](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Count-Subsets.md)
 
