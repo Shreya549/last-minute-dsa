@@ -19,7 +19,7 @@
 
 ## Recursive Approach
 
-- Recursive function returns a boolean value
+- Recursive function returns an integer
 
 ```
 def height(root):
