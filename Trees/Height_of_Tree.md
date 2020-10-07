@@ -30,10 +30,7 @@ def height(root):
   lheight = height(root.left)
   rheight = height(root.right)
   
-  if (lheight > rheight):
-    return lheight + 1
-    
-  return rheight + 1
+  return max(lheight, rheight) + 1
 ```
 
 
