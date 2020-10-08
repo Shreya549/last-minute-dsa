@@ -43,7 +43,7 @@ def printView(root, maxLevel, level):
     maxLevel[0] = level
     
   printView(root.left, maxLevel, level + 1)  
-  printView(root.right, maxLevel, level - 1)
+  printView(root.right, maxLevel, level + 1)
 ```
 
 <p align="center">
