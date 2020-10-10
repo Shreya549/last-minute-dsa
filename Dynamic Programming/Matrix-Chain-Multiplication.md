@@ -39,7 +39,7 @@ for L in range (2, n):
   
     j = i - L + 1
     
-    dp[i][j] - sys.maxint
+    dp[i][j] = sys.maxint
     
     for k in range(i, j):
     
