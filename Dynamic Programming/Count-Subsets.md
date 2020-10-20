@@ -2,7 +2,7 @@
 
 > Find the number of subsets whose sum is equal to a given number.
 
-> [Link to the question](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+> [Link to the question](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)
 
 > This question is a variation of [Subset Sum Problem](https://github.com/Shreya549/last-minute-dsa/blob/main/Dynamic%20Programming/Subset-Sum.md)
 
