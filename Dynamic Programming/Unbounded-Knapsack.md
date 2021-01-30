@@ -1,4 +1,4 @@
-# 0-1 Knapsack Problem
+# Unbounded Knapsack Problem
 
 > You are given a list of values of items with their respective weights along with the weight of the knapsack. Find the maximum value of the knapsack after filling in the items. Repitition allowed.
 > [Link to the question](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/)
