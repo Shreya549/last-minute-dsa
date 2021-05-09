@@ -35,7 +35,8 @@ while (q):
 	temp = q.dequeue()
 	if temp.right:
 		q.enqueue(temp.right)
-  if temp.left:
+		
+	if temp.left:
 		q.enqueue(temp.left)
 	
 	st.append(temp.val)
