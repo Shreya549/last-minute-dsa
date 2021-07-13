@@ -43,6 +43,11 @@ a>>1 : 0010
 ```
 - a >> 1 = a / 2
 
+## Check if number is odd or even
+
+- a & 1 == 1 => Odd
+- a & 1 == 0 => Even
+
 ## Turn ith bit on
 
 ```
@@ -56,7 +61,7 @@ ans  = 1001 1100
 
 ```
 mask = (1<<i)
-ans = *a | mask)
+ans = (a | mask)
 ```
 
 ## Turn ith bit off
